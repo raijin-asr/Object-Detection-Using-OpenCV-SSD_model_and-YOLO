@@ -20,3 +20,13 @@ objenv/Lib/site-packages/cv2/misc/__pycache__/version.cpython-312.pyc
 objenv/Lib/site-packages/cv2/typing/__init__.py
 objenv/Lib/site-packages/cv2/typing/__pycache__/__init__.cpython-312.pyc
 objenv/Lib/site-packages/cv2/utils/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/__pycache__/load_config_py3.cpython-312.pyc
+objenv/Lib/site-packages/cv2/__pycache__/version.cpython-312.pyc
+objenv/Lib/site-packages/cv2/data/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/gapi/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/mat_wrapper/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/misc/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/misc/__pycache__/version.cpython-312.pyc
+objenv/Lib/site-packages/cv2/typing/__pycache__/__init__.cpython-312.pyc
+objenv/Lib/site-packages/cv2/utils/__pycache__/__init__.cpython-312.pyc
