@@ -3,6 +3,7 @@ from IPython.display import display, clear_output
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
+import io
 
 # Function to detect objects in an image
 def detect_objects_in_image(change):
