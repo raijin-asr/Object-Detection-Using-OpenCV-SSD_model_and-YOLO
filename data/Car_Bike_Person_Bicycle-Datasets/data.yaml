@@ -1,0 +1,9 @@
+path: D:\PROJECTS\Python\Object Detection Project\data\Car_Bike_Person_Bicycle-Datasets  # dataset root dir
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4  # Number of classes in your dataset
+
+names: ['bike', 'car', 'person','bicycle']  # List of class names in the order of their indices
